@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme!</h1>
 <h3 align="center">A student from Brazil, at Catholic University of Pernambuco </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guimelo012x&label=Profile%20views&color=0e75b6&style=flat" alt="guimelo012x" /> </p>
 
 <p align="left">
 </p>
