@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Guilherme!</h1>
-<h3 align="center">A student from Brazil, at Catholic University of Pernambuco </h3>
-<h3 align="center">I'm currently in the first semester </h3>
+<h1 align="center">Olá! 👋, Eu sou Guilherme!</h1>
+<h3 align="center">Estudante de Ciências da Computação na Universidade Católica de Pernambuco. </h3>
+<h3 align="center">Atualmente estou no primeiro período.</h3>
 
 
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
 
 
