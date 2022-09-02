@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme!</h1>
 <h3 align="center">A student from Brazil, at Catholic University of Pernambuco </h3>
-<h3 align="center">I'm Currently in the first semester </h3>
+<h3 align="center">I'm currently in the first semester </h3>
 
 
 <p align="left">
