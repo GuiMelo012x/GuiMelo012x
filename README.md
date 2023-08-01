@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Guilherme!</h1>
 <h3 align="center">Computer Science student at Catholic University of Pernambuco.</h3>
-<h3 align="center">I am currently on my the second semester -  2/8.</h3>
+<h3 align="center">I am currently on my the second semester -  3/8.</h3>
 
 
 <p align="left">
