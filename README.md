@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student at Catholic University of Pernambuco.</h3>
 <h3 align="center">I am currently on my fourth semester -  4/8.</h3>
 
-<p style="font-size: 30px;"> Check out my pinned files to see what i'm learning in my Front-End course! </p>
+<p align="left" style="font-size: 16px;">Check out my pinned files to see what I'm learning in my Front-End course!</p>
 
 <p align="left">
 </p>
