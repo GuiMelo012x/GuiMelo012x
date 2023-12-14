@@ -2,6 +2,11 @@
 <h3 align="center">Computer Science student at Catholic University of Pernambuco.</h3>
 <h3 align="center">I am currently on my fourth semester -  4/8.</h3>
 
+<style> 
+a{
+text-decoration-underline: none;
+}
+</style>
 
 <p align="left">
 </p>
