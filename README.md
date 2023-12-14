@@ -4,7 +4,7 @@
 
 <style> 
 a{
-text-decoration-underline: none;
+text-decoration-line: none;
 }
 </style>
 
