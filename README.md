@@ -14,7 +14,7 @@
 
 
 
-
+<p align = "left"> <a href= "https://www.linkedin.com/in/guilherme-melo-077732248/"> LinkedIn </a> </p>
 
 
 
