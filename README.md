@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Guilherme!</h1>
 <h3 align="center">Computer Science student at Universidade Católica de Pernambuco.</h3>
-<h3 align="center">I am currently on my fifth semester -  5/8.</h3>
+<h3 align="center">I am currently on my sixth semester -  6/8.</h3>
 
 <p align="left">Check out my pinned files or click on the icons to see what i learned in my Git and Github, Front-End, Python, Java and SQL courses!</p>
 
